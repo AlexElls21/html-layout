@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+
+.header {
+padding: 16px 32px
+}
+
+.box {
+  height: 110px;
+  width: 100%;
+  background: #D1D1D1;
+
+}
+.box section {
+  height:10vh ;
+  width:10vh ;
+  float: left;
+  background:#3D94FF;
+}
+
+.first {
+  background: #FFFFFF;
+  height: 20vh;
+  text-align: center;
+  font-size: 20px;
+  padding: 32px, 32px, 32px, 32px;
+}
+
+.second{
+  background: #3D94FF;
+
+}
+.third{
+
+  background:#87FFB3 ;
+
+
+}
+.fourth{
+
+  background: #CBEA8C;
+
+}
+.fifth{
+
+  background: #F2EF54;
+
+}
