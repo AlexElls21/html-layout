@@ -1,0 +1,27 @@
+div {
+/*float: left;
+width: calc(100% / 3)*/
+
+}
+.box  {
+  height: 100vh ;
+  float: left;
+  width: calc(100% / 3)
+}
+.left {
+    background:#0072FF ;
+}
+.middle{
+
+  background: #87FFB3;
+
+}
+.right{
+
+  background:#EA1010; ;
+}
+.bottom {
+  height: 70%;
+  background: #EA1010;
+  background: #D3FF8C
+}
